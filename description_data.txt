@@ -1,0 +1,32 @@
+Description des variables:
+
+Survival : vie ou mort du passager
+	0 : n'a pas survecu
+	1 : a survecu
+
+Pclass : Classe du passager
+	1 : Première classe
+	2 : Seconde classe
+	3 : Troisième classe
+
+Sex : Sexe du passager
+	male
+	female
+
+Age : Age du passager
+
+Sibsp : Nombre de frère et soeur ou d'épouse/mari à bord
+
+Parch : Nombre de parent ou d'enfant à bord
+
+Ticket : Numéro de ticket d'embarquement
+
+Fare : Prix d'achat du ticket d'embarquement
+
+Cabin : Numéro de cabine de passager
+	le lettre represente le pont où est placé la cabine
+
+Embarked : Port d'embarcation du passager
+	C : Cherbourg
+	Q : Queenstown
+	S : Southampton
